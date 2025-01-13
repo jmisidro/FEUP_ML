@@ -11,3 +11,5 @@ This project was developed by group G12, composed of the following members:
 | José Miguel Isidro   | 202006485     |
 | Marcos Costa   | 202108869     |
 | Rodrigo Moucho   | 202108855     |
+
+**Final Grade**: 19.6
