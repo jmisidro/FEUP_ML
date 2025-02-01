@@ -1,4 +1,4 @@
-# FEUP_ML
+# ML-basketball-playoffs
 
 The code to develop the project was done in Python Notebooks, located at the [src](/src/) directory.
 
